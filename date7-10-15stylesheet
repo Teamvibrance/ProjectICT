@@ -1,0 +1,59 @@
+/*
+Theme Name:     Vibrance
+Description:    theme for vibrance hair website
+Author:         vibrance
+Template:       vantage
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+
+
+
+.main-navigation {
+    margin: 0 -5px;
+    background: #9F181E;
+    position: relative;
+    font-size: 0;
+
+}
+.main-navigation ul li a {
+  padding: 18px 23px;
+}
+
+#masthead .hgroup {
+    zoom: 1;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#masthead .hgroup #header-sidebar aside.widget:last-child{
+    margin-right: 10px;
+}
+.main-navigation ul ul {
+    background: #9F181E;
+}
+
+#masthead {
+    background: #fcfcfc;
+    padding: 0 3px 0 3px;
+}
+
+.main-navigation ul li:hover > a {
+  background: #ECC685;
+  color: #961E18;
+}
+
+
+.main-navigation ul ul li:hover > a {
+  background: #ECC685;
+  color: #ffffff;
+}
+
+
+#colophon {
+    margin-bottom: 20px;
+    background: #9F181E;
+    padding: 15px;
+}
